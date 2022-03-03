@@ -16,7 +16,7 @@
 ## Usage
 
 ```sh
-npm run dev
+npm start
 ```
 
 ## Run tests
